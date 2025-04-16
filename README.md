@@ -1,5 +1,4 @@
-> **# Job-Seeking-Web-Application**
-
+### 1. Job-Seeking-Web-Application
 ---
 
 ```markdown
@@ -40,27 +39,6 @@ A full-stack web application where **job seekers** can find and apply for jobs, 
 | Authentication | JWT (JSON Web Token)     |
 
 ---
-
-## 📂 Folder Structure
-
-```
-Job-Seeking-Web-Application/
-│
-├── client/           # React frontend
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       └── App.js
-│
-├── server/           # Node + Express backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── server.js
-```
-
----
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
